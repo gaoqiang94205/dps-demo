@@ -2,3 +2,5 @@
 .idea
 dps-demo.iml
 target
+.DS_Store
+*/.DS_Store
