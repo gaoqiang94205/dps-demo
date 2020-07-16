@@ -1,2 +1,5 @@
-server:
-    port: 8080
+spring:
+  kafka:
+    consumer:
+      bootstrap-servers: 192.168.124.18:9092
+      group-id: foo

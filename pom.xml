@@ -33,6 +33,12 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-logging</artifactId>
         </dependency>
+        <!--        对kafka的引入使用-->
+        <dependency>
+            <groupId>org.springframework.kafka</groupId>
+            <artifactId>spring-kafka</artifactId>
+            <!--            <version>2.5.3.RELEASE</version>-->
+        </dependency>
     </dependencies>
     <build>
         <plugins>
